@@ -1,3 +1,0 @@
-this is the second text for the tutorial
-for a final commit practice
-just some changes 
