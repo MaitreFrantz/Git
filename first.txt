@@ -1,3 +1,4 @@
 this is my first text stuff for git
 this is rubbish in the file stuff
 this is just a sentence to change some stuff for the video tutorials.
+this is changing the first
