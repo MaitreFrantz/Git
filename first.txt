@@ -1,1 +1,2 @@
 this is my first text stuff for git
+this is rubbish in the file stuff
